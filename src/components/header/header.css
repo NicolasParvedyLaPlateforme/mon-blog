@@ -1,0 +1,16 @@
+header nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+ul li {
+    list-style: none;
+    padding:10px;
+}
